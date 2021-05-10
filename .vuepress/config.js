@@ -1,7 +1,7 @@
 module.exports = {
     plugins: [
         ['vuepress-plugin-yuque', {
-            repoUrl: 'https://www.yuque.com/ukz96y/ngd5zk/tmpomo',
+            repoUrl: 'https://www.yuque.com/ukz96y/ngd5zk',
             authToken:'NdzST5UU7oIbd3ugj8LtqHip4KxosEEYHBmizIC4',
             home: {
                 actionText: '入门 →',
