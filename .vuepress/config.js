@@ -5,7 +5,7 @@ module.exports = {
             authToken:'NdzST5UU7oIbd3ugj8LtqHip4KxosEEYHBmizIC4',
             home: {
                 actionText: '入门 →',
-                actionLink: '/intro/',
+                actionLink: '/tmpomo/',
                 heroImage: 'http://www.wzlue.com/include/wzl/images/footer_logo.png',
                 footer: `Copyright © 微战略`
             },
